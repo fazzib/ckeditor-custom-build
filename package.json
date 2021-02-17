@@ -8,6 +8,7 @@
   "files": [
     "build"
   ],
+  "private": true,
   "devDependencies": {
     "@ckeditor/ckeditor5-autoformat": "^25.0.0",
     "@ckeditor/ckeditor5-basic-styles": "^25.0.0",
