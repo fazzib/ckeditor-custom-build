@@ -28,9 +28,11 @@ import MediaEmbed from '@ckeditor/ckeditor5-media-embed/src/mediaembed.js';
 import Paragraph from '@ckeditor/ckeditor5-paragraph/src/paragraph.js';
 import PasteFromOffice from '@ckeditor/ckeditor5-paste-from-office/src/pastefromoffice';
 import SimpleUploadAdapter from '@ckeditor/ckeditor5-upload/src/adapters/simpleuploadadapter.js';
+import Strikethrough from '@ckeditor/ckeditor5-basic-styles/src/strikethrough';
 import Table from '@ckeditor/ckeditor5-table/src/table.js';
 import TableToolbar from '@ckeditor/ckeditor5-table/src/tabletoolbar.js';
 import TextTransformation from '@ckeditor/ckeditor5-typing/src/texttransformation.js';
+import Underline from '@ckeditor/ckeditor5-basic-styles/src/underline';
 
 class Editor extends ClassicEditor {}
 
@@ -61,9 +63,11 @@ Editor.builtinPlugins = [
 	Paragraph,
 	PasteFromOffice,
 	SimpleUploadAdapter,
+	Strikethrough,
 	Table,
 	TableToolbar,
-	TextTransformation
+	TextTransformation,
+	Underline
 ];
 
 export default Editor;
