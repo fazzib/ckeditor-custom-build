@@ -814,7 +814,7 @@
   resolved "https://registry.yarnpkg.com/@webpack-cli/serve/-/serve-1.5.1.tgz#b5fde2f0f79c1e120307c415a4c1d5eb15a6f278"
   integrity sha512-4vSVUiOPJLmr45S8rMGy7WDvpWxfFxfP/Qx/cxZFCfvoypTYpPPL1X8VIZMe0WTA+Jr7blUxwUSEZNkjoMTgSw==
 
-"@wiris/mathtype-ckeditor5@^7.27.0":
+"@wiris/mathtype-ckeditor5@^7.26.1":
   version "7.27.0"
   resolved "https://registry.yarnpkg.com/@wiris/mathtype-ckeditor5/-/mathtype-ckeditor5-7.27.0.tgz#592fa7a8850640ce67226f90d3e4bdcbccea93d3"
   integrity sha512-A3ph6BaFlle7RIYbQvhhqwMPy6MWxCx9J2oQ14zFSeb677UTkQGVKG0HlAaW4SqzL+HVLOjQtLC74ImhixUrPw==

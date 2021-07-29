@@ -2,7 +2,7 @@
   "name": "@fazal/ckeditor5-custom-build",
   "author": "CKSource",
   "description": "A custom CKEditor 5 build made by the CKEditor 5 online builder.",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "license": "SEE LICENSE IN LICENSE.md",
   "main": "./build/ckeditor.js",
   "files": [
@@ -32,7 +32,7 @@
     "@ckeditor/ckeditor5-theme-lark": "^25.0.0",
     "@ckeditor/ckeditor5-typing": "^25.0.0",
     "@ckeditor/ckeditor5-upload": "^25.0.0",
-    "@wiris/mathtype-ckeditor5": "^7.27.0",
+    "@wiris/mathtype-ckeditor5": "^7.26.1",
     "acorn-walk": "^6.2.0",
     "acorn": "^6.4.2",
     "aggregate-error": "^3.1.0",
